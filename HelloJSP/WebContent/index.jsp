@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html:charset=UTF-8" pageEncoding="UTF-8" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,13 +6,15 @@
 <title>TEST</title>
 </head>
 <body>
-<%! static int add(int a,int b){
-	return a+b;
-	}
-	%>
-
-	<p>1+2=<%=add(1,2) %></p>
-	<p>1+2=<%=add(3,4) %></p>
+<form method="post" action="total-out.jsp">
+<input type="text" name="price">
+円x
+<input type="text" name="count">
+個+送料
+<input type="text" name="delivery">
+円=
+<input type="submit" value="計算">
+</form>
 
 </body>
 </html>
