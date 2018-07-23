@@ -1,0 +1,5 @@
+package com.testuser.login.action;
+
+public class LoginAction {
+
+}

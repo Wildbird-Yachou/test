@@ -1,0 +1,5 @@
+package com.testuser.login.util;
+
+public class DBConnector {
+
+}
