@@ -5,12 +5,12 @@
 "https://struts.apache.org/dtds/struts-2.3.dtd">
 <struts>
  <constant name="struts.devMode" value="true" />
- <package name="com.testuser.login.action" extends="struts-defaults">
+ <package name="com.testuser.webproj.action" extends="struts-default">
 
- <action name="LoginAction" class="com.testuser.login.action.LoginAction"
+ <action name="HelloStrutsAction" class="com.testuser.webproj.action.HelloStrutsAction"
  method="execute">
-  <result name="success">loginSuccess.jsp</result>
-  <result name="error">loginError.jsp</result>
+  <result name="success">hello.jsp</result>
+
  </action>
 
 </package>
