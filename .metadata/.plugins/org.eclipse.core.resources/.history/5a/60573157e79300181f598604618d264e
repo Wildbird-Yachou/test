@@ -1,0 +1,5 @@
+package Com.testuser.webproj5.dto;
+
+public class helloStrutsDTO {
+
+}

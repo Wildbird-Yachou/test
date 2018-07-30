@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="型 &apos;Com.testuser.webproj5.dto.helloStrutsDTO&apos; を &apos;HelloStrutsDTO&apos; に名前変更します&#x0D;&#x0A;- 元のプロジェクト: &apos;Webproj5&apos;&#x0D;&#x0A;- オリジナル要素: &apos;Com.testuser.webproj5.dto.helloStrutsDTO&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;Com.testuser.webproj5.dto.HelloStrutsDTO&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新&#x0D;&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新" description="型名 &apos;helloStrutsDTO&apos; を変更します" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Com.testuser.webproj5.dto{helloStrutsDTO.java[helloStrutsDTO" matchStrategy="1" name="HelloStrutsDTO" qualified="false" references="true" similarDeclarations="false" stamp="1532948839022" textual="false" version="1.0"/>
+</session>
