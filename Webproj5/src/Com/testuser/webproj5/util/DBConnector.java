@@ -1,4 +1,4 @@
-package Com.testuser.webproj5.util;
+package com.testuser.webproj5.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

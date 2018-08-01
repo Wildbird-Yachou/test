@@ -1,8 +1,8 @@
 /**
- * 
+ *
  */
 /**
  * @author testuser
  *
  */
-package Com.testuser.webproj5.dto;
+package com.testuser.webproj5.dto;

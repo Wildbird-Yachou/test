@@ -2,4 +2,5 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.lang.Class"/>
 <fullyQualifiedTypeName name="Com.testuser.webproj5.dao.HelloStrutsDAO"/>
+<fullyQualifiedTypeName name="java.sql.Array"/>
 </qualifiedTypeNameHistroy>

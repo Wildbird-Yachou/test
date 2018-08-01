@@ -1,4 +1,4 @@
-package Com.testuser.webproj5.dao;
+package com.testuser.webproj5.dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,8 +7,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import Com.testuser.webproj5.dto.HelloStrutsDTO;
-import Com.testuser.webproj5.util.DBConnector;
+import com.testuser.webproj5.dto.HelloStrutsDTO;
+import com.testuser.webproj5.util.DBConnector;
 
 public class HelloStrutsDAO {
 
