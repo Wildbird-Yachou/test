@@ -1,0 +1,9 @@
+package com.testuser.webproj2.dao;
+
+public class Snippet {
+	public static void main(String[] args) {
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+	}
+}
+
