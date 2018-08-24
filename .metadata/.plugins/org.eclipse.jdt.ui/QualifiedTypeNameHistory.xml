@@ -3,4 +3,7 @@
 <fullyQualifiedTypeName name="java.lang.Class"/>
 <fullyQualifiedTypeName name="Com.testuser.webproj5.dao.HelloStrutsDAO"/>
 <fullyQualifiedTypeName name="java.sql.Array"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="com.testuser.webproj2.dao.LoginDAO"/>
+<fullyQualifiedTypeName name="com.testuser.webproj2.dao.TestDAO"/>
 </qualifiedTypeNameHistroy>

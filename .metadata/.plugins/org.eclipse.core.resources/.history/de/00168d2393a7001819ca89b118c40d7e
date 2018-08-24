@@ -1,0 +1,5 @@
+package com.testuser.webproj2.action;
+
+public class InquiryCompleteAction {
+
+}
