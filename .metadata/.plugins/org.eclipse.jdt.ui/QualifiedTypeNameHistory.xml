@@ -6,4 +6,7 @@
 <fullyQualifiedTypeName name="java.sql.SQLException"/>
 <fullyQualifiedTypeName name="com.testuser.webproj2.dao.LoginDAO"/>
 <fullyQualifiedTypeName name="com.testuser.webproj2.dao.TestDAO"/>
+<fullyQualifiedTypeName name="com.testuser.webproj3.dao.InquiryCompleteDAO"/>
+<fullyQualifiedTypeName name="com.opensymphony.xwork2.ActionSupport"/>
+<fullyQualifiedTypeName name="com.testuser.webproj3.util.DBConnector"/>
 </qualifiedTypeNameHistroy>
