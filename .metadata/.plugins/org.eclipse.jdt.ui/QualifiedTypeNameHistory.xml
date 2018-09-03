@@ -11,4 +11,5 @@
 <fullyQualifiedTypeName name="com.testuser.webproj3.util.DBConnector"/>
 <fullyQualifiedTypeName name="java.sql.ResultSet"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
 </qualifiedTypeNameHistroy>

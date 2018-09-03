@@ -8,6 +8,7 @@
 <title>TEST</title>
 </head>
 <body>
+<br>
 <h1>以下の新規ユーザーが登録されました。</h1>
 
 <br>

@@ -1,0 +1,5 @@
+package com.testuser.template.util;
+
+public class DBConnector {
+
+}
