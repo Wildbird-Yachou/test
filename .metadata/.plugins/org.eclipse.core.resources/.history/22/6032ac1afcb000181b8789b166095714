@@ -1,0 +1,5 @@
+package com.testuser.template.dao;
+
+public class LoginDAO {
+
+}
