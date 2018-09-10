@@ -90,7 +90,7 @@ clear:both;
     </tr>
     <tr>
      <td>
-      <label>ユーザー名</label>
+      <label>ユーザー名:</label>
      </td>
      <td>
       <input type="text" name="userName" value=""/>
