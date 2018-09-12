@@ -1,0 +1,20 @@
+package com.testuser.template.dao;
+
+import java.sql.SQLException;
+
+import com.testuser.template.util.DBConnector;
+import com.testuser.template.util.DateUtil;
+
+public class BuyItemComplete {
+
+	private DateUtil dateUtil = new DateUtil();
+
+	private String sql = "INSERT INTO user_buy_item_transaction(item_transaction_id,total_place,total_count,user_master_id,pay,insert_date) VALUES(?,?,?,?,?,?)";
+
+	public void buyItemInfo(String item_transaction_id,String user_master_id,String total_price,String total_count,String pay)throws SQLException{
+		DBConnector dbConnector = new DBconnector();
+		Connection connection = dbConnector.getConnection();
+	}
+
+
+}

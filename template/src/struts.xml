@@ -39,5 +39,15 @@ class="com.testuser.template.action.UserCreateCompleteAction" method="execute">
 class="com.testuser.template.action.BuyItemAction" method="execute">
 <result name="success">buyItemConfirm.jsp</result>
 </action>
+
+<action name="BuyItemConfirmAction"
+class="com.testuser.template.action.BuyItemConfirmAction" method="execute">
+<result name="success">buyItemComplete.jsp</result>
+</action>
+
+<action name="MyPageAction"
+class="com.testuser.template.action.MyPageAction" method="execute">
+<result name="success">myPage.jsp</result>
+</action>
  </package>
  </struts>
