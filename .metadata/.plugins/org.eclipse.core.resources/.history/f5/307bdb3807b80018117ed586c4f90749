@@ -1,0 +1,5 @@
+package com.testuser.ecsite.util;
+
+public class DBConnector {
+
+}
