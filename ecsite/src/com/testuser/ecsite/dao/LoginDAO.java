@@ -3,6 +3,7 @@ package com.testuser.ecsite.dao;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
+
 import com.testuser.ecsite.dto.LoginDTO;
 import com.testuser.ecsite.util.DBConnector;
 
@@ -12,8 +13,8 @@ public class LoginDAO {
 	private Connection connection = dbConnector.getConnection();
 	private LoginDTO loginDTO = new LoginDTO();
 
-	public LoginDTO gtLoginUserInfo(String loginUserId,String loginPassword){
-		String sql - "SELECT * FROM login_user_transaction where login_id = ? AND login_pass = ?";
+	public LoginDTO getLoginUserInfo(String loginUserId,String loginPassword){
+		String sql = "SELECT * FROM login_user_transaction where login_id = ? AND login_pass = ?";
 
 		try{
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
