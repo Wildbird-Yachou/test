@@ -1,0 +1,5 @@
+package com.testuser.ecsite.action;
+
+public class UserCreateCompleteAction {
+
+}
