@@ -2,11 +2,11 @@ package com.testuser.ecsite.dto;
 
 public class BuyItemDTO {
 
-	public int id;
+	private int id;
 
-	public String itemName;
+	private String itemName;
 
-	public String itemPrice;
+	private String itemPrice;
 
 	public String getItemName(){
 		return itemName;

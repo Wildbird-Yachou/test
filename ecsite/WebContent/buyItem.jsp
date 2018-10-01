@@ -17,7 +17,7 @@ margin:0;
 padding:0;
 line-height:1.6;
 letter-spacing:1px;
-font-family:Verdana,Helvatica,sans-serif;
+font-family:Verdana,Helvetica,sans-serif;
 font-size:12px;
 color:#333;
 background:#fff;
@@ -80,7 +80,7 @@ clear:both;
      <span>値段</span>
     </td>
     <td>
-     <s:property value="sessioin.buyItem_price" /><span>円</span>
+     <s:property value="session.buyItem_price" /><span>円</span>
     </td>
    </tr>
    <tr>
